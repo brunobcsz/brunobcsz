@@ -1,7 +1,7 @@
 ### Oiês! Eu sou o Bruno Souza
 
 - 🔭 Procurando estágio
-- 🌱 Estudando C# e Javascript
+- 🌱 Estudando C, C#, HTML, CSS e Javascript
 - 🎓 Engenharia de Software
 - 😄 Pronouns: Ele/Dele
 
