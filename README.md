@@ -1,8 +1,8 @@
 ### Oiês! Eu sou o Bruno Souza
 
 - 🔭 Procurando estágio
-- 🌱 Estudando C, Python, HTML, CSS e Javascript
-- 🎓 Engenharia de Software
+- 🌱 Estudando C, Python
+- 🎓 Engenharia de Computação
 - 😄 Pronouns: Ele/Dele
 
 ##
